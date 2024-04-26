@@ -1,4 +1,4 @@
-    header {
+*{
     margin: 0;
     padding: 0;
 }
@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    width: 20%;
+    width: 50%;
 }
 
 .cabecalho-lista-item{
@@ -21,4 +21,25 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.escola-imagem{
+    width: 50%;
+}
+
+.escola{
+    background-image: linear-gradient(#615e42,#b40c74);
+    color:rgb(216, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 60%%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+
+
 
